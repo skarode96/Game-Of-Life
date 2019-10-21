@@ -5,7 +5,7 @@ import brogrammer from './brogrammer-logo.png';
 class App extends Component {
   
   render() {
-    const name = "<Bro/>grammers";
+    const name = "<Bro/>grammers...";
     return (
       <div className="App">
         <header className="App-header">
